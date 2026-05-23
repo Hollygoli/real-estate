@@ -43,5 +43,5 @@ The client, a real-estate agency was considering entering St. Petersburg's marke
 
 ## 📁 Repository Structure
 * 'README.md' — Project overview and executive summary (this file).
-* '/data' — Anonymized raw dataset.
+* '/data' — Anonymized raw dataset limited to 500 data entries.
 * '/src' — Source code folder containing SQL script (PostGreSQL).
